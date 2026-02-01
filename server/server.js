@@ -18,7 +18,7 @@ await connectCloudinary();
 
 app.use(cors({
   origin: [
-    'https://job-portal-ordg.vercel.app',
+    'https://job-portal-beta-bice.vercel.app',
     'http://localhost:5173',
   ],
   credentials: true
